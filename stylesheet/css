@@ -1,0 +1,5 @@
+.all{
+    width: 1280px;
+    height: 817px;
+    flex-shrink: 0;
+}
